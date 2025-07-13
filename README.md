@@ -1,6 +1,6 @@
 👋 Hi, I’m Vasu, PhD Student at Centre for Atmospheric Sciences
 -------------------------------------------------------------------------------------------------
-🎓 Masters in Science, Geophysics (Meteorology) @ BHU, India 2021
+🎓 Masters in Science, Geophysics @ BHU, India 2021
 
 🎓 Doctorate in Science, Centre for Atmospheric Sciences @ IIT Delhi, India Aug, 2022 (ongoing)
 
