@@ -4,18 +4,18 @@
 
 🎓 Doctorate in Science, Centre for Atmospheric Sciences @ IIT Delhi, India Aug, 2022 (ongoing)
 
-👀 I’m interested in ... Aerosol, Atmospheric Chemistry, Air quality, Source Apportionment modelling, PMF, Full waveform inversion, seismic inversion, atmospheric and ocean modelling, computational geophysics, Machine Learning.
+👀 I’m interested in ... Aerosol, Atmospheric Chemistry, Air quality, Source Apportionment Modelling, PMF, Full Waveform inversion, Seismic Inversion, Atmospheric and Ocean modelling, Computational Geophysics, Machine Learning.
 
 🌱 I’m currently learning ... how to use  SOFI pro, PMF, Source Apportionment modelling, ML, Generative AI
 
 💞️ I’m looking to collaborate on atmospheric aerosol, Atmospheric Chemistry, Air quality, Carbonaceous Aerosol
 
-📫 You can contact me at vaksingh01@gmail.com
+📫 You can contact me at vasu.singh.iitd@gmail.com
 
 🌍  I'm based in India 
 
 🌱 Skills
- JUDI, DEVITO, PYTHON, MATLAB
+ IGOR PRO, JUDI, DEVITO, PYTHON, MATLAB
 
 
 
